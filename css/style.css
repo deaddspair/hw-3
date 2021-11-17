@@ -291,11 +291,14 @@ body {
   margin-right: 518px;
   margin-bottom: 50px;
 }
-.about-name:first-child {
-  margin-left: 170px;
+.about-name {
+  margin-left: 60px;
+  margin-right: 59px;
 }
 .about-proffesion {
   padding-bottom: 124px;
+  margin-left: 70px;
+  margin-right: 60px;
 }
 .bg-color {
   height: 368px;
